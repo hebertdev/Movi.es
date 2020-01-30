@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jesus Rojas <jesusrojas.frontend@gmail.com> (http://jesusrojas.com.ve)",
-  "homepage": "https://github.com/jesusrojas-frontend/movies#readme",
+  "author": "Hebert Villafuerte",
+  "homepage": "",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "css-mqpacker": "^6.0.1",
